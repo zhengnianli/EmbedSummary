@@ -1,5 +1,7 @@
 ## 嵌入式相关开源项目、库、资料------持续更新中
 
+学习初期最难找的就是找学习资料了，本贴精心汇总了一些嵌入式相关资源，包括但不限于编程语言、单片机、开源项目、物联网、操作系统、Linux等资源，并且在不断地更新中，致力于打造全网最全的嵌入式资料库。有好的嵌入式相关资源的朋友欢迎做贡献，利人利己。以下为最新资料汇总：
+
 ### 1、OS
 
 [鸿蒙OS](https://openharmony.gitee.com/openharmony)： 一款面向全场景的开源分布式操作系统。 
@@ -13,6 +15,8 @@
 [µC/OS ](https://www.micrium.com/rtos/)：一个功能齐全的嵌入式操作系统。
 
 [mbed-os](https://github.com/ARMmbed/mbed-os) ：ARM自己打造、主打IoT的一整套软件解决方案 。 
+
+更多资源敬请期待......
 
 
 
@@ -50,7 +54,7 @@
 
 [pigweed](https://github.com/izzimat/pigweed)：谷歌开源的嵌入式目标库（模块）集合。 
 
-[lwrb](https://github.com/MaJerle/lwrb)：轻量级通用环缓冲区管理器库。
+[lwrb](https://github.com/MaJerle/lwrb)：一个轻量级通用环缓冲区管理器库。
 
 [cQueue](https://gitee.com/yorkjia/cQueue) ：使用ANSI C 编写的消息队列功能函数。 
 
@@ -74,6 +78,8 @@
 
 [OpenBLT](https://sourceforge.net/projects/openblt/files/)：一种开源引导加载程序。
 
+更多资源敬请期待......
+
 
 
 ### 3、GUI相关
@@ -90,7 +96,7 @@
 
 [野牛 LittlevGL demo](https://gitee.com/mzy2364/LittlevGL_Demo)：基于野牛开发板的 LittlevGL  demo 程序 。
 
-[ MonoGUI ](https://gitee.com/liuxinouc/MonoGUI)：黑白图形用户接口系统 。
+[ MonoGUI ](https://gitee.com/liuxinouc/MonoGUI)：一个黑白图形用户接口系统 。
 
 [MiniGUI](http://www.minigui.com/download)： 一个快速、稳定、跨操作系统的GUI。
 
@@ -99,6 +105,8 @@
 [Gtk](https://www.gtk.org/)： 一个用于创造图形用户接口的图形库。
 
 [AWTK](https://gitee.com/zlgopen/awtk?_from=gitee_search)：是 ZLG 倾心打造的一套基于 C 语言开发的 GUI 框架 。
+
+更多资源敬请期待......
 
 
 
@@ -112,7 +120,9 @@
 
 [ RT-Thread IoT SDK ](https://github.com/RT-Thread/IoT_Board)：基于RT-Thread IOT开发板的各类例程。
 
-[从零打造物联网](https://www.scaugreen.cn/posts/44755/)：适合嵌入式开发人员学习的web开发教程。
+[从零打造物联网](https://www.scaugreen.cn/posts/44755/)：一份适合嵌入式开发人员学习的web开发教程。
+
+更多资源敬请期待......
 
 
 
@@ -148,13 +158,15 @@
 
 [ EWAHBoolArray](https://github.com/lemire/EWAHBoolArray)： bitmap算法。
 
+更多资源敬请期待......
+
 
 
 ## 6、学习资料
 
 [100ask download](http://download.100ask.org/)：百文网资料下载中心。
 
-[armfly](http://www.armbbs.cn/forum.php?mod=forumdisplay&fid=49)：安富莱/硬汉嵌入式论坛。
+[armfly](http://www.armbbs.cn/forum.php)：安富莱/硬汉嵌入式论坛。
 
 [fire download](https://ebf-products.readthedocs.io/zh_CN/latest/)：野火资料下载中心。
 
@@ -183,3 +195,12 @@
 [蜗窝科技](http://www.wowotech.net/)：慢下来，享受技术。
 
 [bookstack](https://www.bookstack.cn/)：书栈网。
+
+更多资源敬请期待......
+
+
+
+关注微信公众号**嵌入式大杂烩**，查看更多资源。
+
+[![](https://s1.ax1x.com/2020/09/16/w2fqLn.jpg)](https://imgchr.com/i/w2fqLn)
+
