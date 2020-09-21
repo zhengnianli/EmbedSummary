@@ -16,6 +16,12 @@
 
 [mbed-os](https://github.com/ARMmbed/mbed-os) ：ARM自己打造、主打IoT的一整套软件解决方案 。 
 
+[BabyOS](https://gitee.com/notrynohigh/BabyOS)： 专为MCU项目开发提速的代码框架 。
+
+[LuatOS](https://gitee.com/openLuat/LuatOS) ： LuatOS是运行在嵌入式硬件的实时操作系统，只需要少量内存的flash空间就能运行，用户编写lua代码就可完成各种功能。 
+
+[Contiki-OS](https://github.com/contiki-os/contiki)： 一个小型的，开源的，极易移植的多任务操作系统。 
+
 更多资源敬请期待......
 
 
@@ -77,6 +83,16 @@
 [ SQLite ](https://www.sqlite.org/download.html)：一个开源的嵌入式关系数据库。
 
 [OpenBLT](https://sourceforge.net/projects/openblt/files/)：一种开源引导加载程序。
+
+[Linux Lab](https://gitee.com/tinylab/linux-lab) ： Linux 内核实验室，基于 Docker/Qemu 的极速 Linux 内核学习、开发和测试环境。 
+
+[airkissOpen](https://github.com/heyuanjie87/airkissOpen) ：腾讯airkiss协议解析库 。
+
+[nr_micro_shell](https://gitee.com/nrush/nr_micro_shell) ： shell for MCU，单片机命令行交互。
+
+[FlexibleButton](https://github.com/murphyzhao/FlexibleButton)： FlexibleButton 是一个基于标准 C 语言的小巧灵活的按键处理库。
+
+[mbedtls](https://github.com/ARMmbed/mbedtls) ：一个开源、便携,易于使用,可读的和灵活的SSL库。 
 
 更多资源敬请期待......
 
