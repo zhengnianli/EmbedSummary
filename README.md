@@ -94,6 +94,8 @@
 
 [mbedtls](https://github.com/ARMmbed/mbedtls) ：一个开源、便携,易于使用,可读的和灵活的SSL库。 
 
+[mosquitto](https://github.com/eclipse/mosquitto)：一个开源的MQTT代理。
+
 更多资源敬请期待......
 
 
@@ -178,7 +180,7 @@
 
 
 
-## 6、学习资料
+## 6、学习资料/资源/工具
 
 [100ask download](http://download.100ask.org/)：百文网资料下载中心。
 
@@ -211,6 +213,10 @@
 [蜗窝科技](http://www.wowotech.net/)：慢下来，享受技术。
 
 [bookstack](https://www.bookstack.cn/)：书栈网。
+
+[wireshark](https://www.wireshark.org/#download)：抓包工具下载链接。
+
+[Stduino](http://www.stduino.com/pindex.php)： 一款面向32位处理器快速入门学习的集成开发平台 。
 
 更多资源敬请期待......
 
