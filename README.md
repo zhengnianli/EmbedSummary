@@ -94,7 +94,7 @@
 
 [mbedtls](https://github.com/ARMmbed/mbedtls) ：一个开源、便携,易于使用,可读的和灵活的SSL库。 
 
-[mosquitto](https://github.com/eclipse/mosquitto)：一个开源的MQTT代理。
+[mosquitto](https://github.com/eclipse/mosquitto)或[mosquitto(下载速度快)](https://gitee.com/zhengnianli/mosquitto)：一个开源的MQTT代理。
 
 更多资源敬请期待......
 
@@ -190,9 +190,13 @@
 
 [openedv download](http://www.openedv.com/docs/index.html)：正点原子资料下载中心。
 
+[宅学部落](http://www.zhaixue.cc/)：一个Linux、编程语言、内核、驱动开发学习网站。
+
 [PyQt5](http://code.py40.com/face)：PyQt5教程。
 
 [qter](https://www.qter.org/)：QT开源社区。
+
+[源代码使用示例聚合器](https://cpp.hotexamples.com/zh/)： 从超过100万个开源项目搜索CPP代码示例。
 
 [KST-51 ](http://www.qdkingst.com/cn)：《手把手教你学51单片机》 。
 
