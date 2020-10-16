@@ -96,6 +96,8 @@
 
 [mosquitto](https://github.com/eclipse/mosquitto)或[mosquitto(下载速度快)](https://gitee.com/zhengnianli/mosquitto)：一个开源的MQTT代理。
 
+[inih](https://github.com/benhoyt/inih)：  C 语言编写的 INI 文件解析器。
+
 更多资源敬请期待......
 
 
