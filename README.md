@@ -192,6 +192,8 @@
 
 [openedv download](http://www.openedv.com/docs/index.html)：正点原子资料下载中心。
 
+[bear-pi](https://gitee.com/morixinguan/bear-pi)：小熊派demo。
+
 [宅学部落](http://www.zhaixue.cc/)：一个Linux、编程语言、内核、驱动开发学习网站。
 
 [PyQt5](http://code.py40.com/face)：PyQt5教程。
