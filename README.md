@@ -182,7 +182,7 @@
 
 
 
-## 6、学习资料/资源/工具
+## 6、学习资料/资源/工具/网站
 
 [100ask download](http://download.100ask.org/)：百文网资料下载中心。
 
@@ -196,9 +196,25 @@
 
 [宅学部落](http://www.zhaixue.cc/)：一个Linux、编程语言、内核、驱动开发学习网站。
 
+[单片机教程网](http://www.51hei.com/)：单片机基础、设计实例、论坛。
+
 [PyQt5](http://code.py40.com/face)：PyQt5教程。
 
 [qter](https://www.qter.org/)：QT开源社区。
+
+[电子世家](http://www.dianzishijia.com/)：一个电子类导航网站。
+
+[21ic](https://www.21ic.com/)：21IC中国电子网。
+
+[芯路恒电子](http://www.corecourse.cn/forum.php)：小梅哥博客、FPGA论坛。
+
+[嵌入式开发者社区](http://www.51ele.net/)：创龙论坛。
+
+[micropython](http://micropython.openioe.net/)：micropython中文网。
+
+[泰晓科技](http://tinylab.org/using-linux-lab-to-do-embedded-linux-development/)：Linux相关。
+
+[电堂科技](https://c.51diantang.com/)：STM32相关。
 
 [源代码使用示例聚合器](https://cpp.hotexamples.com/zh/)： 从超过100万个开源项目搜索CPP代码示例。
 
@@ -211,6 +227,8 @@
 [c.biancheng](http://c.biancheng.net/)：C语言中文网。
 
 [open-c-book](https://github.com/tinyclub/open-c-book) ：《C语言编程透视》。
+
+[PyQt5](http://code.py40.com/)：PyQt5在线教程。
 
 [open-shell-book](https://github.com/tinyclub/open-shell-book)：《Shell 编程范例》 。
 
