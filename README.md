@@ -22,6 +22,8 @@
 
 [Contiki-OS](https://github.com/contiki-os/contiki)： 一个小型的，开源的，极易移植的多任务操作系统。 
 
+[DJYOS](http://www.djyos.com/)： 都江堰操作系统。
+
 更多资源敬请期待......
 
 
@@ -197,6 +199,10 @@
 [宅学部落](http://www.zhaixue.cc/)：一个Linux、编程语言、内核、驱动开发学习网站。
 
 [单片机教程网](http://www.51hei.com/)：单片机基础、设计实例、论坛。
+
+[GNU](http://www.gnu.org/)：GNU官网。
+
+[ChinaUnix](http://www.chinaunix.net/)：Linux/Unix相关。
 
 [PyQt5](http://code.py40.com/face)：PyQt5教程。
 
