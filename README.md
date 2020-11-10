@@ -24,6 +24,10 @@
 
 [DJYOS](http://www.djyos.com/)： 都江堰操作系统。
 
+ [klite](https://gitee.com/kerndev/klite) ： 简洁易用的嵌入式操作系统内核。 
+
+ [lmosem](https://gitee.com/lmnos/lmosem) ： 一个完全从第一行引导代码开始编写，基于ARM平台，支持多进程、多CPU、内存管理、文件与设备管理的全32位操作系统内核。 
+
 更多资源敬请期待......
 
 
@@ -100,6 +104,22 @@
 
 [inih](https://github.com/benhoyt/inih)：  C 语言编写的 INI 文件解析器。
 
+[QP](http://www.state-machine.com/)：QP实时嵌入式框架。
+
+[MS-RTOS](https://github.com/MS-RTOS)： Micro Safe RTOS 。
+
+[protobuf-c](https://github.com/protobuf-c/protobuf-c/wiki/Examples)：protobuf-c。
+
+[eepromfs](https://gitee.com/wtau_zaozao/eepromfs?_from=gitee_search)： 基于EEPROM的简易类文件的数据读写库 。
+
+[gear-lib](https://gitee.com/gozfreee/gear-lib) ： 适用于IOT/嵌入式/网络服务开发的C库 。
+
+ [mult_timer](https://gitee.com/simpost/mult_timer) ： 一个Linux下的超级精简的多重定时器 。
+
+ [EFSM](https://gitee.com/simpost/EFSM) ： 是一个基于事件驱动的有限状态机 。
+
+
+
 更多资源敬请期待......
 
 
@@ -152,6 +172,8 @@
 
 [qt_2019_ncov](https://github.com/whik/qt_2019_ncov)：基于Qt/C++实现的新冠肺炎疫情监控平台。
 
+ [H7-TOOL_STM32H7_App](https://gitee.com/armfly/H7-TOOL_STM32H7_App) ：H7-TOOL 多功能开发工具。
+
 [DAPLink/CMSIS DAP](https://github.com/ARMmbed/DAPLink)：一个调试器， 集成下载、调试和USB虚拟串口。
 
 [mcush](https://github.com/pengshulin/mcush)：MCU shell。
@@ -193,6 +215,14 @@
 [fire download](https://ebf-products.readthedocs.io/zh_CN/latest/)：野火资料下载中心。
 
 [openedv download](http://www.openedv.com/docs/index.html)：正点原子资料下载中心。
+
+[野火](https://www.firebbs.cn/forum.php)：野火电子论坛。
+
+[正点](http://www.openedv.com/forum.php)：正点原子论坛。
+
+[ST](https://www.stmcu.org.cn/module/forum/forum.php)：ST中文社区。
+
+[NXP社区](https://www.nxpic.org.cn/)：恩智浦论坛。
 
 [bear-pi](https://gitee.com/morixinguan/bear-pi)：小熊派demo。
 
