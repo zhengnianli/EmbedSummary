@@ -28,6 +28,8 @@
 
  [lmosem](https://gitee.com/lmnos/lmosem) ： 一个完全从第一行引导代码开始编写，基于ARM平台，支持多进程、多CPU、内存管理、文件与设备管理的全32位操作系统内核。 
 
+[freenos](http://www.freenos.org/)：FreeNOS微内核操作系统。
+
 更多资源敬请期待......
 
 
@@ -224,6 +226,24 @@
 
 [NXP社区](https://www.nxpic.org.cn/)：恩智浦论坛。
 
+[Linux](https://www.kernel.org/)：Linux内核官网。
+
+[Linux源码](https://elixir.bootlin.com/linux/latest/source)：可在线阅读Linux内核源码。
+
+[Buildroot](https://buildroot.org/downloads/)：buildroot源码。
+
+[Debian](https://www.debian.org/)：Debian官网。
+
+[Ubuntu](https://ubuntu.com/)：Ubuntu官网。
+
+[荔枝派](https://www.kancloud.cn/lichee/lpi0/317714)：荔枝派指南。
+
+[清华镜像站](https://mirrors.tuna.tsinghua.edu.cn/)：清华大学开源软件镜像站。
+
+[中科大镜像站](https://mirrors.ustc.edu.cn/)：中国科技大学镜像站。
+
+[u-boot](https://ftp.denx.de/pub/u-boot/)：u-boot源码下载页面。
+
 [bear-pi](https://gitee.com/morixinguan/bear-pi)：小熊派demo。
 
 [宅学部落](http://www.zhaixue.cc/)：一个Linux、编程语言、内核、驱动开发学习网站。
@@ -277,6 +297,8 @@
 [bookstack](https://www.bookstack.cn/)：书栈网。
 
 [wireshark](https://www.wireshark.org/#download)：抓包工具下载链接。
+
+[MobaXterm](https://mobaxterm.mobatek.net/download.html)：一个好用的终端软件。
 
 [Stduino](http://www.stduino.com/pindex.php)： 一款面向32位处理器快速入门学习的集成开发平台 。
 
