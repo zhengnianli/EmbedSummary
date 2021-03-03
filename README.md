@@ -258,6 +258,10 @@
 
 [qter](https://www.qter.org/)：QT开源社区。
 
+[git手册](https://git-scm.com/book/zh/v2)：git学习手册。
+
+[开源项目风格](https://zh-google-styleguide.readthedocs.io/en/latest/#)：Google 开源项目风格指南 (中文版)。
+
 [电子世家](http://www.dianzishijia.com/)：一个电子类导航网站。
 
 [21ic](https://www.21ic.com/)：21IC中国电子网。
