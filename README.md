@@ -120,7 +120,7 @@
 
  [EFSM](https://gitee.com/simpost/EFSM) ： 是一个基于事件驱动的有限状态机 。
 
-
+[EasyX](https://easyx.cn/)：一个免费的图形库。
 
 更多资源敬请期待......
 
@@ -146,9 +146,13 @@
 
 [QT](https://www.qt.io/developers)：跨平台的应用程序和用户界面框架。
 
+[QT_Creator](https://download.qt.io/new_archive/qt/)：QT_Creator下载链接。
+
 [Gtk](https://www.gtk.org/)： 一个用于创造图形用户接口的图形库。
 
 [AWTK](https://gitee.com/zlgopen/awtk?_from=gitee_search)：是 ZLG 倾心打造的一套基于 C 语言开发的 GUI 框架 。
+
+[玲珑GUI](https://www.yuque.com/books/share/3317aaa7-f47f-4bfd-a4c2-7e64e7f1c4be?#)：玲珑GUI教程页。
 
 更多资源敬请期待......
 
@@ -223,6 +227,10 @@
 [正点](http://www.openedv.com/forum.php)：正点原子论坛。
 
 [ST](https://www.stmcu.org.cn/module/forum/forum.php)：ST中文社区。
+
+[讯为开发社区](http://bbs.topeetboard.com/forum.php)：北京讯为ARM开发社区。
+
+[讯为官网](http://www.topeetboard.com/)：讯为官网。
 
 [NXP社区](https://www.nxpic.org.cn/)：恩智浦论坛。
 
@@ -305,6 +313,12 @@
 [MobaXterm](https://mobaxterm.mobatek.net/download.html)：一个好用的终端软件。
 
 [Stduino](http://www.stduino.com/pindex.php)： 一款面向32位处理器快速入门学习的集成开发平台 。
+
+[easyicon](https://www.easyicon.net/)：一个免费图标下载网站。
+
+[codingdict](https://codingdict.com/)：一个类似于菜鸟教程的编程类教程网站。
+
+[codingdict开源软件](https://codingdict.com/os/)：codingdict网站收集的各类开源软件集合。
 
 更多资源敬请期待......
 
