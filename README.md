@@ -32,8 +32,6 @@
 
 更多资源敬请期待......
 
-
-
 ### 2、实用库/框架
 
 [cJSON](https://github.com/DaveGamble/cJSON)：一个基于C语言的轻量级的JSON解析库。
@@ -122,9 +120,9 @@
 
 [EasyX](https://easyx.cn/)：一个免费的图形库。
 
+[tbox](https://gitee.com/tboox/tbox)：一个用c语言实现的跨平台开发库。
+
 更多资源敬请期待......
-
-
 
 ### 3、GUI相关
 
@@ -156,8 +154,6 @@
 
 更多资源敬请期待......
 
-
-
 ### 4、物联网、智能家居
 
 [ HomeAssistant ](https://github.com/home-assistant/corel)：一款基于 Python 的智能家居开源系统。
@@ -171,8 +167,6 @@
 [从零打造物联网](https://www.scaugreen.cn/posts/44755/)：一份适合嵌入式开发人员学习的web开发教程。
 
 更多资源敬请期待......
-
-
 
 ### 5、实例/项目/软硬结合
 
@@ -210,9 +204,7 @@
 
 更多资源敬请期待......
 
-
-
-## 6、学习资料/资源/工具/网站
+### 6、学习资料/资源/工具/网站
 
 [100ask download](http://download.100ask.org/)：百文网资料下载中心。
 
@@ -243,6 +235,8 @@
 [Debian](https://www.debian.org/)：Debian官网。
 
 [Ubuntu](https://ubuntu.com/)：Ubuntu官网。
+
+[BOA官网](http://www.boa.org/)：一个单任务 web 服务器 ，可以移植到嵌入式平台。
 
 [荔枝派](https://www.kancloud.cn/lichee/lpi0/317714)：荔枝派指南。
 
@@ -319,6 +313,38 @@
 [codingdict](https://codingdict.com/)：一个类似于菜鸟教程的编程类教程网站。
 
 [codingdict开源软件](https://codingdict.com/os/)：codingdict网站收集的各类开源软件集合。
+
+[C经典示例](https://github.com/Mzzopublic/C/tree/master/%E7%BB%8F%E5%85%B8%E7%A4%BA%E4%BE%8B)：一些C语言的实例。
+
+[xmake](https://gitee.com/tboox/xmake)：轻量级跨平台C/C++构建工具。
+
+更多资源敬请期待......
+
+### 7、一些芯片原厂代码仓库
+
+[STMicroelectronics]([STMicroelectronics](https://github.com/STMicroelectronics))：意法半导体（ST）。
+
+[TI](https://github.com/ti-simplelink)：德州仪器（TI）。
+
+[NXP](https://github.com/NXP)：恩智浦（NXP）。
+
+[Freescale](https://github.com/Freescale)：飞思卡尔半导体（Freescale）。
+
+[hisilicon](https://github.com/hisilicon)：海思。
+
+[rockchip](https://github.com/rockchip-linux)：瑞芯微。
+
+[Samsung](https://github.com/Samsung)：三星。
+
+[Infineon](https://github.com/Infineon)：英飞凌。
+
+[analogdevicesinc](https://github.com/analogdevicesinc)：亚德诺半导体（ADI）。
+
+[MicrochipTech](https://github.com/MicrochipTech)：微芯半导体（Microchip ）。
+
+[NordicSemiconductor](https://github.com/NordicSemiconductor)：北欧集成电路（Nordic）。
+
+[cypress-io](https://github.com/cypress-io)：赛普拉斯半导体（Cypress）。
 
 更多资源敬请期待......
 
