@@ -30,6 +30,12 @@
 
 [freenos](http://www.freenos.org/)：FreeNOS微内核操作系统。
 
+[ros](www.ros.org): 机器人操作系统。
+
+[openwrt文档](https://oldwiki.archive.openwrt.org/zh-cn/doc/start):
+
+[Zephyr](https://github.com/zephyrproject-rtos/zephyr):Zephyr 内核是一个内存占用极低的内核，它主要设计用于资源受限系统：从简单的嵌入式环境传感器、LED 可穿戴设备，到复杂的智能手表、IoT 无线网关。
+
 更多资源敬请期待......
 
 ### 2、实用库/框架
@@ -121,6 +127,53 @@
 [EasyX](https://easyx.cn/)：一个免费的图形库。
 
 [tbox](https://gitee.com/tboox/tbox)：一个用c语言实现的跨平台开发库。
+
+[ZBar](https://github.com/ZBar/ZBar):二维码扫描工具和开发包.
+
+[FFmpeg](https://github.com/FFmpeg/FFmpeg):多媒体处理工具库.
+
+[libnabo](https://github.com/ethz-asl/libnabo):是一个快速为低维度空间提供K最近邻居算法库。它提供了一个干净的，传统的无标量类型无关的C ++模板API。
+
+[Data Structure & Algorithm Library (DSAL)](https://github.com/dheeraj-2000/dsalgo):是一个经典的数据结构和算法库。
+
+[FLINT](http://www.flintlib.org/):是一个数论库，用C语言编写，它包括一个非常快的多项式算法库。
+
+[LibMMSeg](http://www.oschina.net/p/libmmseg): 中文分词软件包 。
+
+[CDS](http://libcds.sourceforge.net/): CDS是一个 C++ 模板库，包含 lock-free and fine-grained 算法。
+
+[hashlib++](http://hashlib2plus.sourceforge.net/):是一个简单易用的用来生成 checksum 算法，或者成为 “哈希” 的 C++ 库，可用来生成 MD5 和 SHA1 哈希算法。
+
+[libcstl](https://github.com/activesys/libcstl):libcstl是使用c语言编写的一个通用的数据结构和常用的算法库，它模仿SGI STL的接口和实现，支持vector,list,deque等等常用的数据结构，同时还支持排序，查找，划分等常用的算法，此外libcstl也包含迭 代器的类型，它作为容器和算法之间的桥梁。libcstl为C语言编程中的数据管理提供了便利。
+
+[Botan](http://botan.randombit.net/):Botan 是一个 C++ 的加密算法库，支持 AES, DES, SHA-1, RSA, DSA, Diffie-Hellman 等多种算法，支持 X.509 认证以及CRLs 和 PKCS #10 ，这里是一段示例代码。
+
+[CGAL](http://www.cgal.org/):CGAL ，计算几何算法库，是一个大型C + +库的几何数据结构和算法，如Delaunay三角网，网格生成，布尔运算的多边形，以及各种几何处理算法。 CGAL是用来在各个领域：计算机图形学，科学可视化，计算机辅助设计与建模，地理信息系统，分子生物学，医学影像学，机器人学和运动规划，和数值方法。
+
+[MyMediaLite](http://www.ismll.uni-hildesheim.de/mymedialite/):是一个轻量级的多用途的推荐系统的算法库。它解决了两个最常见的场景的协同过滤：评分预报 (1-5)通过一些隐式的反馈进行预测。
+
+[blas]():提供向量和矩阵的基本运算，用fortran编写。
+
+[lapack]():提供向量和矩阵的高级运算，用fortran编写，内部以blas为基础库。
+
+[cblas](http://www.netlib.org/f2c/):提供c接口的blas库，源码通过f2c转换为C语言。f2c官网。
+
+[clapack]():提供c接口的lapack库，源码通过f2c转换为C语言。
+
+[scalapack]():提供并行运算的lapack库，源码用fortran编写。
+
+[armadillo]():线性代数运算库，源码用c++编写。但很多功能又是基于lapack库的，这些功能是fortran语言。
+
+[openblas]():针对intel cpu优化的blas库。
+
+[mkl]():扩展的且针对intel cpu优化的库，包括BLAS、LAPACK、稀疏矩阵解算器、快速傅立叶变换（FFT）、矢量数学库、矢量随机数生成器。
+
+[eigen]():也是线性代数运算库，但完全用C++写，依赖库只有C++标准库。使用很方便，下载后直接解压像使用自己的代码一样使用。
+
+[SP++](http://code.google.com/p/tspl/):Signal Processing in C++) 是一个关于信号处理与数值计算的开源C++程序库，该库提供了信号处理与数值计算中常用算法的C++实现。SP++中所有算法都以C++类模板方法实现，以头文件形式组织而成，所以不需要用户进行本地编译，只要将相关的头文件包含在项目中即可使用。”XXX.h”表示声明文件，”XXX-impl.h”表示对应的实现文件。所有的函数和类均位于名字空间”splab”中，因此使用SP++时要进行命名空间声明：”using namespace splab”。所有算法以代码的形式发表在了“开源中国社区”，博客地址为：http://my.oschina.net/zmjerry/blog，若有找不到的文件，可以通过博客主页提供的“搜索博客”功能进行查找。
+
+[libjpeg](https://latelee.blog.csdn.net/article/details/6918543?utm_medium=distribute.pc_relevant_download.none-task-blog-baidujs-1.nonecase&depth_1-utm_source=distribute.pc_relevant_download.none-task-blog-baidujs-1.nonecase):用libjpeg库在LCD上显示图片
+
 
 更多资源敬请期待......
 
@@ -320,6 +373,24 @@
 
 [ros手册](http://docs.ros.org/en/rolling/): ros的官方手册。
 
+[gnu的开源软件](https://zh.opensuse.org/%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6): gnu的开源软件
+
+[soft-and-hard](https://github.com/alwxkxk/soft-and-hard): 这是一个以物联网项目为主方向分享web开发教程，制作并演示一个物联网系统是怎么跑起来的，介绍如何学习相关知识。
+
+[一个大佬的博客](https://ychy.me/):一个大佬的博客.
+
+[FireflyTeam ](https://github.com/FireflyTeam):一个开放源代码的仓库。
+
+[python脚本](https://github.com/smilejay/python):一些好用的python脚本。
+
+[C++ libraries](https://en.cppreference.com/w/cpp/links/libs):A list of open source C++ libraries.
+
+[Lindenis](https://github.com/lindenis-org):An open source software for Lindenis SBC. This site maintained by Lindeni Tech. Ltd.
+
+[fast-line-following](https://www.a1k0n.net/2018/11/13/fast-line-following.html):一个快速寻线机器人的算法。
+
+[深度神经网络可视化工具](https://blog.csdn.net/dcxhun3/article/details/77746550):深度神经网络可视化工具。
+
 更多资源敬请期待......
 
 ### 7、一些芯片原厂代码仓库
@@ -350,7 +421,19 @@
 
 更多资源敬请期待......
 
+### 8、一些好玩的项目
 
+[Avem](https://github.com/avem-labs/Avem) : 这是一个轻量级无人机飞控项目。
+
+[Awesome-Embedded](https://github.com/nhivp/Awesome-Embedded) : 这是一个很棒的嵌入式资源汇总的项目。汇聚了各种嵌入式相关的资源。
+
+[FreeModbus](https://github.com/armink/FreeModbus_Slave-Master-RTT-STM32) : FreeModbus是一款开源的Modbus协议栈，但是只有从机开源，主机源码是需要收费的。同时网上也没有发现比较好的开源的Modbus主机协议栈，所以才开发这款支持主机模式的FreeModbus协议栈。本版FreeModbus版本号更改为V1.6
+
+
+
+### 9、一些单独软件包的讲解
+
+[Tslib移植与分析](https://blog.csdn.net/water_cow/article/details/7215308?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-2.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-2.control):Tslib移植与分析。
 
 关注微信公众号**嵌入式大杂烩**，查看更多资源。
 
