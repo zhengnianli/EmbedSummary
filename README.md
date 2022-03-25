@@ -318,6 +318,8 @@
 
 [xmake](https://gitee.com/tboox/xmake)：轻量级跨平台C/C++构建工具。
 
+[ros手册](http://docs.ros.org/en/rolling/): ros的官方手册。
+
 更多资源敬请期待......
 
 ### 7、一些芯片原厂代码仓库
