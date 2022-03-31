@@ -209,6 +209,10 @@
 
 [std](https://github.com/nothings/stb) : 一个嵌入式小型图形库
 
+[qpc](https://github.com/QuantumLeaps/qpc) : 一个开源的状态机实现.
+
+[Quantum Leaps](https://github.com/QuantumLeaps) :  状态机组织.
+
 
 更多资源敬请期待......
 
