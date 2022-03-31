@@ -205,6 +205,11 @@
 
 [玲珑GUI](https://www.yuque.com/books/share/3317aaa7-f47f-4bfd-a4c2-7e64e7f1c4be?#)：玲珑GUI教程页。
 
+[FreeTpye](https://freetype.org/) :字体渲染库
+
+[std](https://github.com/nothings/stb) : 一个嵌入式小型图形库
+
+
 更多资源敬请期待......
 
 ### 4、物联网、智能家居
