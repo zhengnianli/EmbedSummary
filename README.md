@@ -54,6 +54,12 @@
 
 [EasyLogger](https://github.com/armink/EasyLogger)：一款超轻量级、高性能的 C/C++ 日志库。
 
+[limlog](https://github.com/dianjixz/limlog): 一款超轻量级、高性能的 C/C++ 日志库。
+
+[NanoLog](https://github.com/Iyengar111/NanoLog): 一款超轻量级、高性能的 C/C++ 日志库。
+
+[nanomsg](https://github.com/nanomsg/nanomsg): 轻量型分布式消息总线.
+
 [EasyFlash](https://github.com/armink/EasyFlash)：一款开源的轻量级嵌入式Flash存储器库 。
 
 [SFUD](https://github.com/armink/SFUD)：一款开源的串行 SPI Flash 通用驱动库。
@@ -120,9 +126,9 @@
 
 [gear-lib](https://gitee.com/gozfreee/gear-lib) ： 适用于IOT/嵌入式/网络服务开发的C库 。
 
- [mult_timer](https://gitee.com/simpost/mult_timer) ： 一个Linux下的超级精简的多重定时器 。
+[mult_timer](https://gitee.com/simpost/mult_timer) ： 一个Linux下的超级精简的多重定时器 。
 
- [EFSM](https://gitee.com/simpost/EFSM) ： 是一个基于事件驱动的有限状态机 。
+[EFSM](https://gitee.com/simpost/EFSM) ： 是一个基于事件驱动的有限状态机 。
 
 [EasyX](https://easyx.cn/)：一个免费的图形库。
 
@@ -176,7 +182,9 @@
 
 [letter-shell](https://github.com/NevermindZZT/letter-shell) : letter shell 3.0是一个C语言编写的，可以嵌入在程序中的嵌入式shell，通俗一点说就是一个串口命令行，可以通过命令行调用、运行程序中的函数。
 
+[x264](https://code.videolan.org/videolan/x264): x264开源的解码编码库.
 
+[ws2812](https://github.com/hepingood/ws2812b): ws2812驱动库.
 
 
 更多资源敬请期待......
@@ -1110,6 +1118,8 @@ XML就是个垃圾，xml的解析很烦人，对于计算机它也是个灾难�
 
 [aardio](https://www.baidu.com/link?url=PbmnGuyJPfgmK-CF1KMFZglqltWBxDM6L5LCJw3uCvWFgMTp1hOPS2tSI_jmIfb5&wd=&eqid=e60c22f8001b4a720000000662620480) : arrdio是一个能在windows系统中快速创建一个应用程序的一门语言，也是一个超级胶水工具。你可以用python、java、C、C#、javastrip、PHP等数值的编程语言结合arrdio几分钟就可以开发一款带界面的桌面应用程序。你可以用html的方式来创建一个界面或者用其他界面库来创建一个界面。一切都是你说了算！超小的软件体积，超快的创建速度！
 
+[cmder](https://cmder.net/): cmder是一个增强型命令行工具，不仅可以使用 windows 下的所有命令，更爽的是可以使用linux的命令,shell命令。windows 下的软件.
+
 ### 35、 编译器
 
 C/C++编译器列表
@@ -1226,6 +1236,8 @@ C/C++集成开发环境列表
 
 ### 41、 linux 实用工具
 
+[picocom](https://github.com/npat-efault/picocom): linux 下的一个好用的串口终端.
+
 [w3m](https://github.com/tats/w3m) : 终端浏览器,真正的程序员就该使用命令行来浏览网页。
 
 [The Fuck](https://github.com/nvbn/thefuck) : 在终端下是不是经常输错命令，搞得自己心烦意乱，The Fuck 是一款了不起的工具，帮你彻底解决这个问题，当你输错命令后，只要输入 fuck 命令，它会帮你自动纠正错误，精彩之极！ 
@@ -1262,7 +1274,7 @@ sort, uniq：排序去重。
 
 awk, grep, sed：文本处理神器。
 
-jq，命令行的json查询和格式化工具，适合查看rest接口的输出
+[jq](https://shenhonglei.blog.csdn.net/article/details/108045923?spm=1001.2101.3001.6650.2&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-2.pc_relevant_antiscanv2&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-2.pc_relevant_antiscanv2&utm_relevant_index=5)，命令行的json查询和格式化工具，适合查看rest接口的输出
 
 strace，打印出进程调用了哪些系统调用。
 
