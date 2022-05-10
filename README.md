@@ -1,8 +1,16 @@
-## 嵌入式相关开源项目、库、资料------持续更新中
+# 嵌入式相关开源项目、库、资料------持续更新中
 
-学习初期最难找的就是找学习资料了，本贴精心汇总了一些嵌入式相关资源，包括但不限于编程语言、单片机、开源项目、物联网、操作系统、Linux等资源，并且在不断地更新中，致力于打造全网最全的嵌入式资料库。有好的嵌入式相关资源的朋友欢迎做贡献，利人利己。以下为最新资料汇总：
+学习初期最难找的就是找学习资料了，本贴精心汇总了一些嵌入式相关资源，包括但不限于编程语言、单片机、开源项目、物联网、操作系统、Linux、计算机等资源，并且在不断地更新中，致力于打造全网最全的嵌入式资料库。有好的嵌入式相关资源的朋友欢迎做贡献，利人利己。
 
-### 1、OS
+> 收录公开资料仅为了方便大家进行学习。如果你认为本仓库的一些文件侵犯了您的权益，请 向我反馈 。我将会从仓库中彻底清除这些文件。
+
+以下为最新资料汇总：
+
+> gitee：https://gitee.com/zhengnianli/EmbedSummary
+>
+> github：https://github.com/zhengnianli/EmbedSummary
+
+## 1、OS
 
 [鸿蒙OS](https://openharmony.gitee.com/openharmony)： 一款面向全场景的开源分布式操作系统。 
 
@@ -14,6 +22,12 @@
 
 [µC/OS ](https://www.micrium.com/rtos/)：一个功能齐全的嵌入式操作系统。
 
+[Azure RTOS](https://azure.microsoft.com/zh-cn/services/rtos/#overview)：Azure RTOS 是一个嵌入式开发套件。
+
+[eventos-nano](https://gitee.com/event-os/eventos-nano)：一个超轻量级嵌入式开发框架，事件驱动，占用资源小，可运用于各型单片机。
+
+[zephyr](https://www.zephyrproject.org/)：Zephyr 是 Linux 基金会推出的一个适用于物联网的小型可伸缩的实时操作系统。
+
 [mbed-os](https://github.com/ARMmbed/mbed-os) ：ARM自己打造、主打IoT的一整套软件解决方案 。 
 
 [BabyOS](https://gitee.com/notrynohigh/BabyOS)： 专为MCU项目开发提速的代码框架 。
@@ -24,25 +38,45 @@
 
 [DJYOS](http://www.djyos.com/)： 都江堰操作系统。
 
- [klite](https://gitee.com/kerndev/klite) ： 简洁易用的嵌入式操作系统内核。 
+[klite](https://gitee.com/kerndev/klite) ： 简洁易用的嵌入式操作系统内核。 
 
- [lmosem](https://gitee.com/lmnos/lmosem) ： 一个完全从第一行引导代码开始编写，基于ARM平台，支持多进程、多CPU、内存管理、文件与设备管理的全32位操作系统内核。 
+[lmosem](https://gitee.com/lmnos/lmosem) ： 一个完全从第一行引导代码开始编写，基于ARM平台，支持多进程、多CPU、内存管理、文件与设备管理的全32位操作系统内核。 
 
 [freenos](http://www.freenos.org/)：FreeNOS微内核操作系统。
 
-[ros](www.ros.org): 机器人操作系统。
+[ros](www.ros.org)：机器人操作系统。
 
-[openwrt文档](https://oldwiki.archive.openwrt.org/zh-cn/doc/start):
+[openwrt](https://oldwiki.archive.openwrt.org/zh-cn/doc/start)：openwrt文档。
 
-[Zephyr](https://github.com/zephyrproject-rtos/zephyr):Zephyr 内核是一个内存占用极低的内核，它主要设计用于资源受限系统：从简单的嵌入式环境传感器、LED 可穿戴设备，到复杂的智能手表、IoT 无线网关。
+[cola_os](https://gitee.com/schuck/cola_os)：300行代码实现多任务管理的OS。
+
+[MS-RTOS](https://github.com/MS-RTOS)： Micro Safe RTOS 。
 
 更多资源敬请期待......
 
-### 2、实用库/框架
+## 2、实用库 / 框架
+
+[ametal](https://gitee.com/zlgopen/ametal)或[ametal](https://github.com/zlgopen/ametal)：AMetal是芯片级的裸机软件包，定义了跨平台的通用接口。
+
+[Melon](https://github.com/Water-Melon/Melon)：一个用于简化开发的 C 框架库。
+
+[zlog](https://github.com/HardySimpson/zlog)：一个高可靠性、高性能、纯C日志函数库。
+
+[EasyLogger](https://github.com/armink/EasyLogger)：一款超轻量级、高性能的 C/C++ 日志库。
+
+[Smartlink](https://github.com/jolin90/smartconfig)：Linux上实现的smartconfig。
+
+[airkissOpen](https://github.com/heyuanjie87/airkissOpen) ：腾讯airkiss协议解析库 。
+
+[CodeBrick](https://gitee.com/moluo-tech/CodeBrick)：一种无OS的MCU实用软件管理系统。
+
+[RIL](https://gitee.com/moluo-tech/ril)：一款专门为嵌入式平台开发的无线通信模块(GSM/GPRS/CatM1/NB)管理框架。
 
 [cJSON](https://github.com/DaveGamble/cJSON)：一个基于C语言的轻量级的JSON解析库。
 
 [jsmn](https://github.com/zserge/jsmn)：一个小巧的基于C语言的JSON解析库。
+
+[inih](https://github.com/benhoyt/inih)：  C 语言编写的 INI 文件解析器。
 
 [ MultiTimer ](https://github.com/0x1abin/MultiTimer)： 一个软件定时器扩展模块。
 
@@ -50,15 +84,15 @@
 
 [ SmartTimer ](https://github.com/lmooml/SmartTimer)： 一个轻量级的基于STM32的定时器调度器 。
 
+[FlexibleButton](https://github.com/murphyzhao/FlexibleButton)：一个基于标准 C 语言的小巧灵活的按键处理库。
+
 [CmBacktrace](https://github.com/armink/CmBacktrace) ： 一款针对 ARM Cortex-M 系列 MCU 的错误代码自动追踪库。 
 
 [EasyLogger](https://github.com/armink/EasyLogger)：一款超轻量级、高性能的 C/C++ 日志库。
 
-[limlog](https://github.com/dianjixz/limlog): 一款超轻量级、高性能的 C/C++ 日志库。
+[limlog](https://github.com/dianjixz/limlog) ：一款超轻量级、高性能的 C/C++ 日志库。
 
-[NanoLog](https://github.com/Iyengar111/NanoLog): 一款超轻量级、高性能的 C/C++ 日志库。
-
-[nanomsg](https://github.com/nanomsg/nanomsg): 轻量型分布式消息总线.
+[NanoLog](https://github.com/Iyengar111/NanoLog) ：一款超轻量级、高性能的 C/C++ 日志库。
 
 [EasyFlash](https://github.com/armink/EasyFlash)：一款开源的轻量级嵌入式Flash存储器库 。
 
@@ -75,6 +109,8 @@
 [NorthFrame](https://gitee.com/PISCES_X/NorthFrame) ：一个单片机极简图形化状态机框架 。
 
 [letter-shell](https://github.com/NevermindZZT/letter-shell)：一个功能强大的嵌入式shell。
+
+[nr_micro_shell](https://gitee.com/nrush/nr_micro_shell) ： shell for MCU，单片机命令行交互。
 
 [pigweed](https://github.com/izzimat/pigweed)：谷歌开源的嵌入式目标库（模块）集合。 
 
@@ -96,6 +132,10 @@
 
 [libu](https://github.com/koanlogic/libu)：一个C语言写的多平台工具库。
 
+[tbox](https://gitee.com/tboox/tbox)：一个用c语言实现的跨平台开发库。
+
+[toolkit](https://github.com/cproape/toolkit)：ToolKit是一套应用于嵌入式系统的通用工具包。
+
 [LWIP](http://savannah.nongnu.org/projects/lwip/)： 一个小型开源的TCP/IP协议栈 。
 
 [ SQLite ](https://www.sqlite.org/download.html)：一个开源的嵌入式关系数据库。
@@ -106,19 +146,15 @@
 
 [airkissOpen](https://github.com/heyuanjie87/airkissOpen) ：腾讯airkiss协议解析库 。
 
-[nr_micro_shell](https://gitee.com/nrush/nr_micro_shell) ： shell for MCU，单片机命令行交互。
-
-[FlexibleButton](https://github.com/murphyzhao/FlexibleButton)： FlexibleButton 是一个基于标准 C 语言的小巧灵活的按键处理库。
-
 [mbedtls](https://github.com/ARMmbed/mbedtls) ：一个开源、便携,易于使用,可读的和灵活的SSL库。 
 
 [mosquitto](https://github.com/eclipse/mosquitto)或[mosquitto(下载速度快)](https://gitee.com/zhengnianli/mosquitto)：一个开源的MQTT代理。
 
-[inih](https://github.com/benhoyt/inih)：  C 语言编写的 INI 文件解析器。
+[inih](https://github.com/benhoyt/inih)：C 语言编写的 INI 文件解析器。
 
 [QP](http://www.state-machine.com/)：QP实时嵌入式框架。
 
-[MS-RTOS](https://github.com/MS-RTOS)： Micro Safe RTOS 。
+[MS-RTOS](https://github.com/MS-RTOS)：Micro Safe RTOS 。
 
 [protobuf-c](https://github.com/protobuf-c/protobuf-c/wiki/Examples)：protobuf-c。
 
@@ -134,62 +170,68 @@
 
 [tbox](https://gitee.com/tboox/tbox)：一个用c语言实现的跨平台开发库。
 
-[ZBar](https://github.com/ZBar/ZBar):二维码扫描工具和开发包.
+[sys/queue.h](https://code.woboq.org/userspace/glibc/misc/sys/queue.h.html)：用宏实现的常用数据结构。
 
-[FFmpeg](https://github.com/FFmpeg/FFmpeg):多媒体处理工具库.
+[nanomsg](https://nanomsg.org/)：一个实现了几种“可扩展协议”的高性能通信库。
 
-[libnabo](https://github.com/ethz-asl/libnabo):是一个快速为低维度空间提供K最近邻居算法库。它提供了一个干净的，传统的无标量类型无关的C ++模板API。
+[thttpd](http://acme.com/software/thttpd/)：一个简单，小型，可移植，快速且安全的HTTP服务器。
 
-[Data Structure & Algorithm Library (DSAL)](https://github.com/dheeraj-2000/dsalgo):是一个经典的数据结构和算法库。
+[boa](http://www.boa.org/)：一个小巧高效的web服务器。
 
-[FLINT](http://www.flintlib.org/):是一个数论库，用C语言编写，它包括一个非常快的多项式算法库。
+[FreeTpye](https://freetype.org/) ：字体渲染库。
 
-[LibMMSeg](http://www.oschina.net/p/libmmseg): 中文分词软件包 。
+[qpc](https://github.com/QuantumLeaps/qpc) ：一个开源的状态机实现。
 
-[CDS](http://libcds.sourceforge.net/): CDS是一个 C++ 模板库，包含 lock-free and fine-grained 算法。
+[Quantum Leaps](https://github.com/QuantumLeaps) ：状态机组织。
 
-[hashlib++](http://hashlib2plus.sourceforge.net/):是一个简单易用的用来生成 checksum 算法，或者成为 “哈希” 的 C++ 库，可用来生成 MD5 和 SHA1 哈希算法。
+[ZBar](https://github.com/ZBar/ZBar) ：二维码扫描工具和开发包.
 
-[libcstl](https://github.com/activesys/libcstl):libcstl是使用c语言编写的一个通用的数据结构和常用的算法库，它模仿SGI STL的接口和实现，支持vector,list,deque等等常用的数据结构，同时还支持排序，查找，划分等常用的算法，此外libcstl也包含迭 代器的类型，它作为容器和算法之间的桥梁。libcstl为C语言编程中的数据管理提供了便利。
+[FFmpeg](https://github.com/FFmpeg/FFmpeg) ：多媒体处理工具库.
 
-[Botan](http://botan.randombit.net/):Botan 是一个 C++ 的加密算法库，支持 AES, DES, SHA-1, RSA, DSA, Diffie-Hellman 等多种算法，支持 X.509 认证以及CRLs 和 PKCS #10 ，这里是一段示例代码。
+[libnabo](https://github.com/ethz-asl/libnabo) ：是一个快速为低维度空间提供K最近邻居算法库。
 
-[CGAL](http://www.cgal.org/):CGAL ，计算几何算法库，是一个大型C + +库的几何数据结构和算法，如Delaunay三角网，网格生成，布尔运算的多边形，以及各种几何处理算法。 CGAL是用来在各个领域：计算机图形学，科学可视化，计算机辅助设计与建模，地理信息系统，分子生物学，医学影像学，机器人学和运动规划，和数值方法。
+[DSAL](https://github.com/dheeraj-2000/dsalgo)：是一个经典的数据结构和算法库。
 
-[MyMediaLite](http://www.ismll.uni-hildesheim.de/mymedialite/):是一个轻量级的多用途的推荐系统的算法库。它解决了两个最常见的场景的协同过滤：评分预报 (1-5)通过一些隐式的反馈进行预测。
+[FLINT](http://www.flintlib.org/) ：是一个数论库，用C语言编写，它包括一个非常快的多项式算法库。
 
-[blas]():提供向量和矩阵的基本运算，用fortran编写。
+[LibMMSeg](http://www.oschina.net/p/libmmseg)：中文分词软件包 。
 
-[lapack]():提供向量和矩阵的高级运算，用fortran编写，内部以blas为基础库。
+[CDS](http://libcds.sourceforge.net/)：CDS是一个 C++ 模板库，包含 lock-free and fine-grained 算法。
 
-[cblas](http://www.netlib.org/f2c/):提供c接口的blas库，源码通过f2c转换为C语言。f2c官网。
+[hashlib++](http://hashlib2plus.sourceforge.net/)：是一个简单易用的用来生成 checksum 算法。
 
-[clapack]():提供c接口的lapack库，源码通过f2c转换为C语言。
+[libcstl](https://github.com/activesys/libcstl)：C语言编写的一个通用的数据结构和常用的算法库。
 
-[scalapack]():提供并行运算的lapack库，源码用fortran编写。
+[Botan](http://botan.randombit.net/)：Botan 是一个 C++ 的加密算法库。
 
-[armadillo]():线性代数运算库，源码用c++编写。但很多功能又是基于lapack库的，这些功能是fortran语言。
+[CGAL](http://www.cgal.org/)：计算几何算法库。
 
-[openblas]():针对intel cpu优化的blas库。
+[MyMediaLite](http://www.ismll.uni-hildesheim.de/mymedialite/)：是一个轻量级的多用途的推荐系统的算法库。
 
-[mkl]():扩展的且针对intel cpu优化的库，包括BLAS、LAPACK、稀疏矩阵解算器、快速傅立叶变换（FFT）、矢量数学库、矢量随机数生成器。
+[cblas](http://www.netlib.org/f2c/)：提供c接口的blas库，源码通过f2c转换为C语言。f2c官网。
 
-[eigen]():也是线性代数运算库，但完全用C++写，依赖库只有C++标准库。使用很方便，下载后直接解压像使用自己的代码一样使用。
+[clapack]()：提供c接口的lapack库，源码通过f2c转换为C语言。
 
-[SP++](http://code.google.com/p/tspl/):Signal Processing in C++) 是一个关于信号处理与数值计算的开源C++程序库，该库提供了信号处理与数值计算中常用算法的C++实现。SP++中所有算法都以C++类模板方法实现，以头文件形式组织而成，所以不需要用户进行本地编译，只要将相关的头文件包含在项目中即可使用。”XXX.h”表示声明文件，”XXX-impl.h”表示对应的实现文件。所有的函数和类均位于名字空间”splab”中，因此使用SP++时要进行命名空间声明：”using namespace splab”。所有算法以代码的形式发表在了“开源中国社区”，博客地址为：http://my.oschina.net/zmjerry/blog，若有找不到的文件，可以通过博客主页提供的“搜索博客”功能进行查找。
+[scalapack]()：提供并行运算的lapack库，源码用fortran编写。
 
-[libjpeg](https://latelee.blog.csdn.net/article/details/6918543?utm_medium=distribute.pc_relevant_download.none-task-blog-baidujs-1.nonecase&depth_1-utm_source=distribute.pc_relevant_download.none-task-blog-baidujs-1.nonecase):用libjpeg库在LCD上显示图片
+[armadillo]()：线性代数运算库，源码用c++编写。
 
-[letter-shell](https://github.com/NevermindZZT/letter-shell) : letter shell 3.0是一个C语言编写的，可以嵌入在程序中的嵌入式shell，通俗一点说就是一个串口命令行，可以通过命令行调用、运行程序中的函数。
+[openblas]()：针对intel cpu优化的blas库。
 
-[x264](https://code.videolan.org/videolan/x264): x264开源的解码编码库.
+[mkl]()：扩展的且针对intel cpu优化的库，包括快速傅立叶变换（FFT）、矢量数学库。
 
-[ws2812](https://github.com/hepingood/ws2812b): ws2812驱动库.
+[eigen]()：C++写的线性代数运算库。
+
+[libjpeg](https://latelee.blog.csdn.net/article/details/6918543?utm_medium=distribute.pc_relevant_download.none-task-blog-baidujs-1.nonecase&depth_1-utm_source=distribute.pc_relevant_download.none-task-blog-baidujs-1.nonecase)：用libjpeg库在LCD上显示图片。
+
+[x264](https://code.videolan.org/videolan/x264)：x264开源的解码编码库。
+
+[ws2812](https://github.com/hepingood/ws2812b)：ws2812驱动库。
 
 
 更多资源敬请期待......
 
-### 3、GUI相关
+## 3、GUI相关
 
 [GuiLite](https://gitee.com/idea4good/GuiLite)：大道至简 - 5千行/仅头文件/全平台GUI库 。
 
@@ -217,42 +259,26 @@
 
 [玲珑GUI](https://www.yuque.com/books/share/3317aaa7-f47f-4bfd-a4c2-7e64e7f1c4be?#)：玲珑GUI教程页。
 
-[FreeTpye](https://freetype.org/) :字体渲染库
+[std](https://github.com/nothings/stb) ：一个嵌入式小型图形库。
 
-[std](https://github.com/nothings/stb) : 一个嵌入式小型图形库
-
-[qpc](https://github.com/QuantumLeaps/qpc) : 一个开源的状态机实现.
-
-[Quantum Leaps](https://github.com/QuantumLeaps) :  状态机组织.
+[CUGUI](https://gitee.com/cuihongxi/CUIGUI)：为单片机写的GUI ，支持字体，按键，图片，滑动条。
 
 
 更多资源敬请期待......
 
-### 4、物联网、智能家居
+## 4、项目 / 软硬结合
 
-[ HomeAssistant ](https://github.com/home-assistant/corel)：一款基于 Python 的智能家居开源系统。
+[ElectronBot](https://github.com/peng-zhihui/ElectronBot)：一个桌面级小机器人。
 
-[ Domoticz ](https://github.com/domoticz/domoticz)：一个开源的智能家居系统 。
-
-[Kaa IoT Platform](https://www.kaaproject.org/)：功能丰富的开放和高效的物联网云平台。
-
-[ RT-Thread IoT SDK ](https://github.com/RT-Thread/IoT_Board)：基于RT-Thread IOT开发板的各类例程。
-
-[从零打造物联网](https://www.scaugreen.cn/posts/44755/)：一份适合嵌入式开发人员学习的web开发教程。
-
-更多资源敬请期待......
-
-### 5、实例/项目/软硬结合
+[Planck-Pi](https://github.com/peng-zhihui/Planck-Pi)：超迷你Linux开发板。
 
 [qt_2019_ncov](https://github.com/whik/qt_2019_ncov)：基于Qt/C++实现的新冠肺炎疫情监控平台。
 
- [H7-TOOL_STM32H7_App](https://gitee.com/armfly/H7-TOOL_STM32H7_App) ：H7-TOOL 多功能开发工具。
+[H7-TOOL_STM32H7_App](https://gitee.com/armfly/H7-TOOL_STM32H7_App) ：安富莱H7-TOOL 多功能开发工具。
+
+[the-little-bili-tv](https://gitee.com/wangpeng25/the-little-bili-tv)：基于esp32+lvgl8.0的哔哩哔哩小电视。 
 
 [DAPLink/CMSIS DAP](https://github.com/ARMmbed/DAPLink)：一个调试器， 集成下载、调试和USB虚拟串口。
-
-[mcush](https://github.com/pengshulin/mcush)：MCU shell。
-
-[DoST](https://github.com/zhangyuhu/DoST)： Linux 下开发 STM32 。
 
 [Crazepony](http://www.crazepony.com/)：Crazepony开源四轴飞行器。
 
@@ -261,6 +287,8 @@
 [LiPow-Firmware](https://github.com/AlexKlimaj/LiPow-Firmware)：基于STM32G0采用USB type-C供电的开源锂电池充电器。
 
 [Avem](https://github.com/avem-labs/Avem)： 一个轻量级无人机飞控。
+
+[ esp8266-lattice-clock](https://gitee.com/lengff/esp8266-lattice-clock-open)：Esp8266多功能点阵时钟。
 
 [SoftWareSerial](https://github.com/TonyIOT/SoftWareSerial)：一个STM32 IO口模拟实现软件串口程序。 
 
@@ -276,9 +304,15 @@
 
 [ EWAHBoolArray](https://github.com/lemire/EWAHBoolArray)： bitmap算法。
 
+[mcush](https://github.com/pengshulin/mcush)：MCU shell。
+
+[DoST](https://github.com/zhangyuhu/DoST)： Linux 下开发 STM32 。
+
+[Avem](https://github.com/avem-labs/Avem) : 这是一个轻量级无人机飞控项目。
+
 更多资源敬请期待......
 
-### 6、学习资料/资源/工具/网站
+## 5、资源 / 工具 / 网站 / 论坛
 
 [100ask download](http://download.100ask.org/)：百文网资料下载中心。
 
@@ -392,31 +426,45 @@
 
 [xmake](https://gitee.com/tboox/xmake)：轻量级跨平台C/C++构建工具。
 
-[ros手册](http://docs.ros.org/en/rolling/): ros的官方手册。
+[spacevim](https://spacevim.org/cn/)：一个模块化的 Vim IDE。
 
-[gnu的开源软件](https://zh.opensuse.org/%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6): gnu的开源软件
+[vofa+](https://www.vofa.plus/)：一个插件驱动的高自由度上位机。
 
-[soft-and-hard](https://github.com/alwxkxk/soft-and-hard): 这是一个以物联网项目为主方向分享web开发教程，制作并演示一个物联网系统是怎么跑起来的，介绍如何学习相关知识。
+[联合开发网](http://www.pudn.com/)：356万个编程源码资料
 
-[一个大佬的博客](https://ychy.me/):一个大佬的博客.
+[觅思文档](https://mrdoc.pro/)：私有云笔记、云文档和知识库系统。
 
-[FireflyTeam ](https://github.com/FireflyTeam):一个开放源代码的仓库。
+[aardio](https://www.aardio.com/)：易用性极强的动态语言。
 
-[python脚本](https://github.com/smilejay/python):一些好用的python脚本。
+[OneNET SDK](https://github.com/cm-heclouds)：OneNET SDK仓库。
 
-[C++ libraries](https://en.cppreference.com/w/cpp/links/libs):A list of open source C++ libraries.
+[ros手册](http://docs.ros.org/en/rolling/)：ros的官方手册。
 
-[Lindenis](https://github.com/lindenis-org):An open source software for Lindenis SBC. This site maintained by Lindeni Tech. Ltd.
+[gnu的开源软件](https://zh.opensuse.org/%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6)：gnu的开源软件
 
-[fast-line-following](https://www.a1k0n.net/2018/11/13/fast-line-following.html):一个快速寻线机器人的算法。
+[soft-and-hard](https://github.com/alwxkxk/soft-and-hard)：这是一个以物联网项目为主方向分享web开发教程。
 
-[深度神经网络可视化工具](https://blog.csdn.net/dcxhun3/article/details/77746550):深度神经网络可视化工具。
+[FireflyTeam ](https://github.com/FireflyTeam)：一个开放源代码的仓库。
+
+[python脚本](https://github.com/smilejay/python)：一些好用的python脚本。
+
+[C++ libraries](https://en.cppreference.com/w/cpp/links/libs)：A list of open source C++ libraries.
+
+[Lindenis](https://github.com/lindenis-org)：An open source software for Lindenis SBC。
+
+[fast-line-following](https://www.a1k0n.net/2018/11/13/fast-line-following.html)：一个快速寻线机器人的算法。
+
+[深度神经网络可视化工具](https://blog.csdn.net/dcxhun3/article/details/77746550)：深度神经网络可视化工具。
+
+[Awesome-Embedded](https://github.com/nhivp/Awesome-Embedded) ：汇聚了各种嵌入式相关的资源。
+
+[FreeModbus](https://github.com/armink/FreeModbus_Slave-Master-RTT-STM32) : FreeModbus是一款开源的Modbus协议栈，但是只有从机开源。
 
 更多资源敬请期待......
 
-### 7、一些芯片原厂代码仓库
+## 6、一些芯片原厂代码仓库
 
-[STMicroelectronics]([STMicroelectronics](https://github.com/STMicroelectronics))：意法半导体（ST）。
+[STMicroelectronics](https://github.com/STMicroelectronics)：意法半导体（ST）。
 
 [TI](https://github.com/ti-simplelink)：德州仪器（TI）。
 
@@ -440,31 +488,73 @@
 
 [cypress-io](https://github.com/cypress-io)：赛普拉斯半导体（Cypress）。
 
+[GD32](http://www.gd32mcu.com/cn/download/7)：易兆创新(GD)。
+
+[GD32网盘](http://pan.baidu.com/s/1nuifedz)：：易兆创新(GD)网盘资料。
+
 更多资源敬请期待......
 
-### 8、一些好玩的项目
+## 7、物联网、智能家居
 
-[Avem](https://github.com/avem-labs/Avem) : 这是一个轻量级无人机飞控项目。
+[ Domoticz ](https://github.com/domoticz/domoticz)：一个开源的智能家居系统 。
 
-[Awesome-Embedded](https://github.com/nhivp/Awesome-Embedded) : 这是一个很棒的嵌入式资源汇总的项目。汇聚了各种嵌入式相关的资源。
+[Kaa IoT Platform](https://www.kaaproject.org/)：功能丰富的开放和高效的物联网云平台。
 
-[FreeModbus](https://github.com/armink/FreeModbus_Slave-Master-RTT-STM32) : FreeModbus是一款开源的Modbus协议栈，但是只有从机开源，主机源码是需要收费的。同时网上也没有发现比较好的开源的Modbus主机协议栈，所以才开发这款支持主机模式的FreeModbus协议栈。本版FreeModbus版本号更改为V1.6
+[ RT-Thread IoT SDK ](https://github.com/RT-Thread/IoT_Board)：基于RT-Thread IOT开发板的各类例程。
+
+[从零打造物联网](https://www.scaugreen.cn/posts/44755/)：一份适合嵌入式开发人员学习的web开发教程。
+
+更多资源敬请期待......
+
+## 8、机器人相关 / 定位 / 视觉
+
+[RoboCar](https://gitee.com/cv_team/uestc-careye)：机器人自动寻线、避障、建图、导航、遥控版本/车载电脑版本路面分析，及交通路况识别的车辆辅助驾驶系统
+
+[ROS教程](http://wiki.ros.org/cn/ROS/Tutorials)：机器人操作系统
+
+[slam](https://www.slamtec.com/)：思岚科技。
+
+## 9、推荐博客 / 博文
+
+[嵌入式大杂烩周记 | 第 11 期 aardio](https://mp.weixin.qq.com/s?__biz=MzU5MzcyMjI4MA==&mid=2247508249&idx=1&sn=d9ec13b5ffd8696c33d16f852129b4c7&chksm=fe0ecfdec97946c830fae7314a4ff1f83ffd949d8aca89036dbee3c285885e280870b07840e9&token=1729383283&lang=zh_CN#rd)
+
+[嵌入式大杂烩周记 | 第 10 期 inih](https://mp.weixin.qq.com/s?__biz=MzU5MzcyMjI4MA==&mid=2247507990&idx=1&sn=c521f8761a659392c88943488987129e&chksm=fe0eced1c97947c7ffc3fab6de185a5059fa790f892895656d3236affd41baa061e606d09e70&token=1729383283&lang=zh_CN#rd)
+
+[嵌入式大杂烩周记 | 第 9 期 nanopb](https://mp.weixin.qq.com/s?__biz=MzU5MzcyMjI4MA==&mid=2247507711&idx=1&sn=ff20087065e5ff65ad42437adb41ee3e&chksm=fe0eb038c979392eb6fc6c50bf2b2b3fffce3e9c689a1f702dcb14c7045b25786b60960373d3&token=1729383283&lang=zh_CN#rd)
+
+[嵌入式大杂烩周记 | 第 8 期  AMetal](http://mp.weixin.qq.com/s?__biz=MzU5MzcyMjI4MA==&mid=2247507328&idx=1&sn=be02dff353abab76e6d277a1d8fe9ec0&chksm=fe0eb347c9793a51e84365642d65af23720e27b855dc257ebbecb94d1a331b54c4e0eedd3285&scene=21#wechat_redirect) 
+
+[嵌入式大杂烩周记 | 第 7 期 zlog](http://mp.weixin.qq.com/s?__biz=MzU5MzcyMjI4MA==&mid=2247507038&idx=1&sn=9fa92d6e0ceeb207e732fdd37943d581&chksm=fe0eb299c9793b8f2c698ae579eb9d8d80f7be4b852ea805c1dfe519fabbe6de363f25aa150f&scene=21#wechat_redirect) 
+
+[嵌入式大杂烩周记 | 第 6 期 FlexibleButton](http://mp.weixin.qq.com/s?__biz=MzU5MzcyMjI4MA==&mid=2247506418&idx=1&sn=7d3002a4d2821dfee59eba97caaa6aae&chksm=fe0eb735c9793e2313e6418f48ff96ecd887e934f7c09178822475adf505241193a6cffe19ab&scene=21#wechat_redirect) 
+
+[嵌入式大杂烩周记 | 第 5 期 smartlink](http://mp.weixin.qq.com/s?__biz=MzU5MzcyMjI4MA==&mid=2247506144&idx=1&sn=8d6ca3a50341d6147eaba41ab0da8eb6&chksm=fe0eb627c9793f31ee01411d6b1a6cd7331610d24aefd6c697e540ea26262b91fd3c00e619c8&scene=21#wechat_redirect) 
+
+[嵌入式大杂烩周记 | 第 4 期 cola_os](http://mp.weixin.qq.com/s?__biz=MzU5MzcyMjI4MA==&mid=2247505918&idx=1&sn=8782c2fed223af07f77ff11c1e02d4a9&chksm=fe0eb939c979302fc69171a6786bfed007673d689a7ff9836dc1702f3585b4d796b0bb5bb19d&scene=21#wechat_redirect) 
+
+[嵌入式大杂烩周记 | 第 3 期 sys/queue.h](http://mp.weixin.qq.com/s?__biz=MzU5MzcyMjI4MA==&mid=2247505803&idx=1&sn=78714f6c35c3df080d4a646cd3f9e9ef&chksm=fe0eb94cc979305aec86d41c9d532b83d49825f543d340d846e856737ee8927b9fab3c299033&scene=21#wechat_redirect) 
+
+[嵌入式大杂烩周记 | 第 2 期 llgui](http://mp.weixin.qq.com/s?__biz=MzU5MzcyMjI4MA==&mid=2247505561&idx=1&sn=44e1ba8b99a2c312212e079c7f533208&chksm=fe0eb85ec979314852a2e0e6ec335287c6fe597e50428005b3d6b6f57cd199c97139863eb9ee&scene=21#wechat_redirect) 
+
+[嵌入式大杂烩周记 | 第 1 期 gear-lib](http://mp.weixin.qq.com/s?__biz=MzU5MzcyMjI4MA==&mid=2247505251&idx=1&sn=f3ca02a6538af599e7705af5133ba40d&chksm=fe0ebba4c97932b2530651671bcde2d7b1e76b25c37e58fab0f4010b0949a2764303cfcfd289&scene=21#wechat_redirect) 
+
+[博文——Tslib移植与分析](https://blog.csdn.net/water_cow/article/details/7215308?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-2.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-2.control)
+
+[博主——ychy](https://ychy.me/)
+
+关注微信公众号**嵌入式大杂烩**，查看更多资源。
+
+[![](https://zhengn-blog-imgs.oss-cn-shenzhen.aliyuncs.com/images/202205102338188.jpg)](https://imgchr.com/i/w2fqLn)
 
 
 
-### 9、一些单独软件包的讲解
-
-[Tslib移植与分析](https://blog.csdn.net/water_cow/article/details/7215308?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-2.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-2.control):Tslib移植与分析。
 
 
+下面计算机资源为网友 **`dianjixz`** 贡献，感谢这位朋友。
 
+# 计算机相关资源------持续更新中
 
-
-# 计算机资源
-
-之前我们分享过一篇[最值得关注的10个C开源项目](https://zhuanlan.zhihu.com/p/30661549)，这次要分享一些关于 C++ 框架、库和资源的一些汇总列表，内容包括：标准库、Web应用框架、人工智能、数据库、图片处理、机器学习、日志、代码分析等。
-
-### 1、 标准库
+## 1、 标准库
 
 C++标准库，包括了STL容器，算法和函数等。
 
@@ -476,7 +566,7 @@ C++标准库，包括了STL容器，算法和函数等。
 
 [ISO C++ Standards Committee](https://link.zhihu.com/?target=https%3A//github.com/cplusplus) ：C++标准委员会
 
-### 2、 框架
+## 2、 框架
 
 C++通用框架和库
 
@@ -530,7 +620,7 @@ C++通用框架和库
 
 [Yomm11](https://link.zhihu.com/?target=https%3A//github.com/jll63/yomm11) ：C++11的开放multi-methods.
 
-### 3、 人工智能
+## 3、 人工智能
 
 [btsk](https://link.zhihu.com/?target=https%3A//github.com/aigamedev/btsk) ：游戏行为树启动器工具
 
@@ -538,7 +628,7 @@ C++通用框架和库
 
 [Neu](https://link.zhihu.com/?target=https%3A//github.com/andrometa/neu)：C++11框架，编程语言集，用于创建人工智能应用程序的多用途软件系统。
 
-### 4、 异步事件循环
+## 4、 异步事件循环
 
 [Boost.Asio](https://link.zhihu.com/?target=http%3A//think-async.com/)：用于网络和底层I/O编程的跨平台的C++库。
 
@@ -548,7 +638,7 @@ C++通用框架和库
 
 [libuv](https://link.zhihu.com/?target=https%3A//github.com/joyent/libuv) ：跨平台异步I/O。
 
-### 5、音频
+## 5、音频
 
 音频，声音，音乐，数字化音乐库
 
@@ -566,7 +656,7 @@ C++通用框架和库
 
 [Vorbis](https://link.zhihu.com/?target=http%3A//xiph.org/vorbis/)： Ogg Vorbis是一种完全开放的，非专有的，免版税的通用压缩音频格式。
 
-### 6、 生态学
+## 6、 生态学
 
 生物信息，基因组学和生物技术
 
@@ -578,7 +668,7 @@ C++通用框架和库
 
 [Wham](https://link.zhihu.com/?target=https%3A//github.com/jewmanchue/wham)：直接把联想测试应用到BAM文件的基因结构变异。
 
-### 7、 压缩
+## 7、 压缩
 
 压缩和归档库
 
@@ -608,7 +698,7 @@ C++通用框架和库
 
 [ZZIPlib](https://link.zhihu.com/?target=http%3A//zziplib.sourceforge.net/)：提供ZIP归档的读权限。
 
-### 8、并发性
+## 8、并发性
 
 并发执行和多线程
 
@@ -632,13 +722,13 @@ C++通用框架和库
 
 [VexCL](https://link.zhihu.com/?target=https%3A//github.com/ddemidov/vexcl) ：用于OpenCL/CUDA 的C++向量表达式模板库。
 
-### 9、 容器
+## 9、 容器
 
 [C++ B-tree](https://link.zhihu.com/?target=https%3A//code.google.com/p/cpp-btree/) ：基于B树数据结构，实现命令内存容器的模板库
 
 [Hashmaps](https://link.zhihu.com/?target=https%3A//github.com/goossaert/hashmap)： C++中开放寻址哈希表算法的实现
 
-### 10、 密码学
+## 10、 密码学
 
 [Bcrypt](https://link.zhihu.com/?target=http%3A//bcrypt.sourceforge.net/) ：一个跨平台的文件加密工具，加密文件可以移植到所有可支持的操作系统和处理器中。
 
@@ -668,7 +758,7 @@ C++通用框架和库
 
 [Tiny AES128 in C](https://link.zhihu.com/?target=https%3A//github.com/kokke/tiny-AES128-C) ：用C实现的一个小巧，可移植的实现了AES128ESB的加密算法
 
-### 11、 数据库
+## 11、 数据库
 
 数据库，SQL服务器，ODBC驱动程序和工具
 
@@ -686,7 +776,7 @@ C++通用框架和库
 
 [SQLite](https://link.zhihu.com/?target=http%3A//www.sqlite.org/)：一个完全嵌入式的，功能齐全的关系数据库，只有几百KB，可以正确包含到你的项目中。
 
-### 12、 调试
+## 12、 调试
 
 调试库， 内存和资源泄露检测，单元测试
 
@@ -714,7 +804,7 @@ C++通用框架和库
 
 [UnitTest++](https://link.zhihu.com/?target=http%3A//unittest-cpp.sourceforge.net/)：轻量级的C++单元测试框架
 
-### 13、 游戏引擎
+## 13、 游戏引擎
 
 [Cocos2d-x](https://link.zhihu.com/?target=http%3A//www.cocos2d-x.org/) ：一个跨平台框架，用于构建2D游戏，互动图书，演示和其他图形应用程序。
 
@@ -724,7 +814,7 @@ C++通用框架和库
 
 [Polycode](https://link.zhihu.com/?target=http%3A//polycode.org/)：C++实现的用于创建游戏的开源框架（与Lua绑定）。
 
-### 14、 图形用户界面
+## 14、 图形用户界面
 
 [CEGUI](https://link.zhihu.com/?target=http%3A//cegui.org.uk/) ： 很灵活的跨平台GUI库
 
@@ -754,7 +844,7 @@ C++通用框架和库
 
 [wxWidgets](https://link.zhihu.com/?target=http%3A//wxwidgets.org/) C++库，允许开发人员使用一个代码库可以为widows， Mac OS X，Linux和其他平台创建应用程序
 
-### 15、 图形
+## 15、 图形
 
 [bgfx](https://link.zhihu.com/?target=https%3A//github.com/bkaradzic/bgfx)：跨平台的渲染库
 
@@ -774,7 +864,7 @@ C++通用框架和库
 
 [urho3d](https://link.zhihu.com/?target=https%3A//github.com/urho3d/Urho3D) 跨平台的渲染和游戏引擎。
 
-### 16、 图像处理
+## 16、 图像处理
 
 [Boost.GIL](https://link.zhihu.com/?target=http%3A//www.boost.org/doc/libs/1_56_0/libs/gil/doc/index.html)：通用图像库
 
@@ -800,7 +890,7 @@ C++通用框架和库
 
 [VTK](https://link.zhihu.com/?target=http%3A//www.vtk.org/) ：用于3D计算机图形学，图像处理和可视化的开源免费软件系统。
 
-### 17、 国际化
+## 17、 国际化
 
 [gettext](https://link.zhihu.com/?target=http%3A//www.gnu.org/software/gettext/) ：GNU `gettext’
 
@@ -808,7 +898,7 @@ C++通用框架和库
 
 [libiconv](https://link.zhihu.com/?target=http%3A//www.gnu.org/software/libiconv/) ：用于不同字符编码之间的编码转换库
 
-### 18、 Jason
+## 18、 Jason
 
 [frozen](https://link.zhihu.com/?target=https%3A//github.com/cesanta/frozen) ： C/C++的Jason解析生成器
 
@@ -840,7 +930,7 @@ C++通用框架和库
 
 [YAJL](https://link.zhihu.com/?target=https%3A//github.com/lloyd/yajl) ：C语言中快速流JSON解析库
 
-### 19、 日志
+## 19、 日志
 
 [Boost.Log](https://link.zhihu.com/?target=http%3A//www.boost.org/doc/libs/1_56_0/libs/log/doc/html/index.html) ：设计非常模块化，并且具有扩展性
 
@@ -850,7 +940,7 @@ C++通用框架和库
 
 [templog](https://link.zhihu.com/?target=http%3A//www.templog.org/)：轻量级C++库，可以添加日志到你的C++应用程序中
 
-### 20、 机器学习
+## 20、 机器学习
 
 [Caffe](https://link.zhihu.com/?target=https%3A//github.com/BVLC/caffe) ：快速的神经网络框架
 
@@ -866,7 +956,7 @@ C++通用框架和库
 
 [sofia-ml](https://link.zhihu.com/?target=https%3A//code.google.com/p/sofia-ml/) ：用于机器学习的快速增量算法套件
 
-### 21、 数学
+## 21、 数学
 
 [Armadillo](https://link.zhihu.com/?target=http%3A//arma.sourceforge.net/) ：高质量的C++线性代数库，速度和易用性做到了很好的平衡。语法和MatlAB很相似
 
@@ -884,7 +974,7 @@ C++通用框架和库
 
 [GMP](https://link.zhihu.com/?target=https%3A//gmplib.org/)：用于个高精度计算的C/C++库，处理有符号整数，有理数和[浮点数](https://link.zhihu.com/?target=http%3A//www.codeceo.com/article/float-number.html)。
 
-### 22、 多媒体
+## 22、 多媒体
 
 [GStreamer](https://link.zhihu.com/?target=http%3A//gstreamer.freedesktop.org/) ：构建媒体处理组件图形的库
 
@@ -898,7 +988,7 @@ C++通用框架和库
 
 [SFML](https://link.zhihu.com/?target=http%3A//www.sfml-dev.org/) ：快速，简单的多媒体库
 
-### 23、 网络
+## 23、 网络
 
 [ACE](https://link.zhihu.com/?target=http%3A//www.cs.wustl.edu/~schmidt/ACE.html)：C++面向对象网络变成工具包
 
@@ -932,7 +1022,7 @@ C++通用框架和库
 
 [ZeroMQ](https://link.zhihu.com/?target=http%3A//zeromq.org/) ：高速，模块化的异步通信库
 
-### 24、 物理学
+## 24、 物理学
 
 动力学仿真引擎
 
@@ -950,7 +1040,7 @@ C++通用框架和库
 
 [Simbody](https://link.zhihu.com/?target=https%3A//github.com/simbody/simbody) ：高性能C++多体动力学/物理库，模拟关节生物力学和机械系统，像车辆，机器人和人体骨骼。
 
-### 25、 机器人学
+## 25、 机器人学
 
 [MOOS-IvP](https://link.zhihu.com/?target=http%3A//moos-ivp.org/) ：一组开源C++模块，提供机器人平台的自主权，尤其是自主的海洋车辆。
 
@@ -964,13 +1054,13 @@ C++通用框架和库
 
 [ROS](https://link.zhihu.com/?target=http%3A//wiki.ros.org/) ：机器人操作系统，提供了一些库和工具帮助软件开发人员创建机器人应用程序。
 
-### 26、 科学计算
+## 26、 科学计算
 
 [FFTW](https://link.zhihu.com/?target=http%3A//www.fftw.org/) :用一维或者多维计算DFT的C语言库。
 
 [GSL](https://link.zhihu.com/?target=http%3A//www.gnu.org/software/gsl/)：GNU科学库。
 
-### 27、 脚本
+## 27、 脚本
 
 [ChaiScript](https://link.zhihu.com/?target=https%3A//github.com/ChaiScript/ChaiScript/) ：用于C++的易于使用的嵌入式脚本语言。
 
@@ -984,7 +1074,7 @@ C++通用框架和库
 
 [V8](https://link.zhihu.com/?target=http%3A//code.google.com/p/v8/) ：谷歌的快速JavaScript引擎，可以被嵌入到任何C++应用程序中。
 
-### 28、 序列化
+## 28、 序列化
 
 [Cap’n Proto](https://link.zhihu.com/?target=http%3A//kentonv.github.io/capnproto/) ：快速数据交换格式和RPC系统。
 
@@ -1002,7 +1092,7 @@ C++通用框架和库
 
 [Thrift](https://link.zhihu.com/?target=https%3A//thrift.apache.org/) ：高效的跨语言IPC/RPC，用于C++，Java，Python，PHP，C#和其它多种语言中，最初由Twitter开发。
 
-### 29、 视频
+## 29、 视频
 
 [libvpx](https://link.zhihu.com/?target=http%3A//www.webmproject.org/code/) ：VP8/VP9编码解码SDK
 
@@ -1014,7 +1104,7 @@ C++通用框架和库
 
 [Theora](https://link.zhihu.com/?target=http%3A//www.theora.org/) ：免费开源的视频压缩格式。
 
-### 30、 虚拟机
+## 30、 虚拟机
 
 [CarpVM](https://link.zhihu.com/?target=https%3A//github.com/tekknolagi/carp)：C中有趣的VM，让我们一起来看看这个。
 
@@ -1022,7 +1112,7 @@ C++通用框架和库
 
 [TinyVM](https://link.zhihu.com/?target=https%3A//github.com/jakogut/tinyvm)：用纯粹的ANSI C编写的小型，快速，轻量级的虚拟机。
 
-### 31、 Web应用框架
+## 31、 Web应用框架
 
 [Civetweb](https://link.zhihu.com/?target=https%3A//github.com/bel2125/civetweb) ：提供易于使用，强大的，C/C++嵌入式Web服务器，带有可选的CGI，SSL和Lua支持。
 
@@ -1038,7 +1128,7 @@ C++通用框架和库
 
 [Wt](https://link.zhihu.com/?target=http%3A//www.webtoolkit.eu/wt) ：开发Web应用的C++库。
 
-### 32、 XML
+## 32、 XML
 
 XML就是个垃圾，xml的解析很烦人，对于计算机它也是个灾难。这种糟糕的东西完全没有存在的理由了。-Linus Torvalds
 
@@ -1060,7 +1150,7 @@ XML就是个垃圾，xml的解析很烦人，对于计算机它也是个灾难�
 
 [Xerces-C++](https://link.zhihu.com/?target=http%3A//xerces.apache.org/xerces-c/) ：用可移植的C++的子集编写的XML验证解析器。
 
-### 33、 多项混杂
+## 33、 多项混杂
 
 一些有用的库或者工具，但是不适合上面的分类，或者还没有分类。
 
@@ -1112,7 +1202,7 @@ XML就是个垃圾，xml的解析很烦人，对于计算机它也是个灾难�
 
 [Better String](https://link.zhihu.com/?target=http%3A//bstring.sourceforge.net/) ：C的另一个字符串库，功能更丰富，但是没有缓冲溢出问题，还包含了一个C++包装器。
 
-### 34、 软件
+## 34、 软件
 
 用于创建开发环境的软件
 
@@ -1120,7 +1210,7 @@ XML就是个垃圾，xml的解析很烦人，对于计算机它也是个灾难�
 
 [cmder](https://cmder.net/): cmder是一个增强型命令行工具，不仅可以使用 windows 下的所有命令，更爽的是可以使用linux的命令,shell命令。windows 下的软件.
 
-### 35、 编译器
+## 35、 编译器
 
 C/C++编译器列表
 
@@ -1138,7 +1228,7 @@ C/C++编译器列表
 
 [TCC](https://link.zhihu.com/?target=http%3A//bellard.org/tcc/) ：轻量级的C语言编译器
 
-### 36、 [在线编译器](https://link.zhihu.com/?target=http%3A//www.codeceo.com/article/top-10-online-compiler.html)
+## 36、 在线编译器
 
 在线C/C++编译器列表
 
@@ -1154,7 +1244,7 @@ C/C++编译器列表
 
 [Ideone](https://link.zhihu.com/?target=http%3A//ideone.com/) ：一个在线编译器和调试工具，允许你在线编译源代码并执行，支持60多种编程语言。
 
-### 37、 调试器
+## 37、 调试器
 
 C/C++调试器列表
 
@@ -1164,7 +1254,7 @@ C/C++调试器列表
 
 [Valgrind](https://link.zhihu.com/?target=http%3A//valgrind.org/)：内存调试，内存泄露检测，性能分析工具。
 
-### 38、 集成开发环境（IDE）
+## 38、 集成开发环境（IDE）
 
 C/C++集成开发环境列表
 
@@ -1200,7 +1290,7 @@ C/C++集成开发环境列表
 
 [YouCompleteMe](https://link.zhihu.com/?target=https%3A//valloric.github.io/YouCompleteMe/)：一个用于Vim的根据你敲的代码快速模糊搜索并进行代码补全的引擎。
 
-### 39、 构建系统
+## 39、 构建系统
 
 [Bear](https://link.zhihu.com/?target=https%3A//github.com/rizsotto/Bear) ：用于为clang工具生成编译数据库的工具
 
@@ -1220,7 +1310,7 @@ C/C++集成开发环境列表
 
 [tup](https://link.zhihu.com/?target=http%3A//gittup.org/tup/)：基于文件的构建系统，用于后台监控变化的文件。
 
-### 40、 静态代码分析
+## 40、 静态代码分析
 
 提高质量，减少瑕疵的代码分析工具列表
 
@@ -1234,7 +1324,7 @@ C/C++集成开发环境列表
 
 [List of tools for static code analysis](https://link.zhihu.com/?target=http%3A//en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis%23C.2FC.2B.2B) ：来自维基百科的静态代码分析工具列表
 
-### 41、 linux 实用工具
+## 41、 linux 实用工具
 
 [picocom](https://github.com/npat-efault/picocom): linux 下的一个好用的串口终端.
 
@@ -1256,7 +1346,7 @@ C/C++集成开发环境列表
 
 [dtrx](https://github.com/dtrx-py/dtrx/) 有了这个工具你基本再也不用记住如何在linux上面解压各种后缀的文件了，什么tar.gz,tgz,xz,bz2,zip.rar等通通搞定，这是一个python工具.
 
-**[autojump](https://link.zhihu.com/?target=https%3A//github.com/wting/autojump)**   : 记忆进过的文件夹，下次可用 j + 文件夹名 直接跳进， 很方便.软件安装完后输入下面命令生效终端 (echo ""# autojump\nsource /usr/share/autojump/autojump.bash" >> ~/.bashrc)
+[autojump](https://link.zhihu.com/?target=https%3A//github.com/wting/autojump) : 记忆进过的文件夹，下次可用 j + 文件夹名 直接跳进， 很方便.软件安装完后输入下面命令生效终端 (echo ""# autojump\nsource /usr/share/autojump/autojump.bash" >> ~/.bashrc)
 
 [rebash](https://link.zhihu.com/?target=https%3A//github.com/jandob/rebash) : 脚本库/框架。特点：进口，例外，文件测试...
 
@@ -1288,7 +1378,7 @@ objdump，打印目标码和反汇编结果
 
 [PM2](https://link.zhihu.com/?target=http%3A//pm2.keymetrics.io/) :用以在后台运行和管理进程
 
- [SpaceVim](https://link.zhihu.com/?target=https%3A//github.com/SpaceVim/SpaceVim)：这是一个 vim 插件，使你的 Vim 变成带代码自动补全等功能的更加强大的代码编辑器！
+[SpaceVim](https://link.zhihu.com/?target=https%3A//github.com/SpaceVim/SpaceVim)：这是一个 vim 插件，使你的 Vim 变成带代码自动补全等功能的更加强大的代码编辑器！
 
 axel：多线程断点下载工具，非常好用。例如下图中这样，指定了 8 个线程同时下载。
 
@@ -1296,7 +1386,7 @@ nmon：它能够帮你进行电脑的性能监控，包括 CPU，内存，磁盘
 
 [Alex](https://link.zhihu.com/?target=https%3A//github.com/get-alex/alex)：它是一个简单但很有用的小工具。适用于明文文本或者格式为 Markdown 或 HTML 的文档。Alex 会对“性别偏好、极端主义、种族相关、宗教，或者文章中其他不平等的措辞”产生警告。如果你想要试试看 Alex，这里有一个在线 [demo](https://link.zhihu.com/?target=https%3A//alexjs.com/%23demo)；
 
- [GNU Aspell](https://link.zhihu.com/?target=http%3A//aspell.net/)：它能够交互式地检测文本文档，能高亮显示拼写错误，还能在拼写错误的上方提供正确的拼写建议。Aspell 在进行拼写检查的时候，同样能够忽略许多语法标记；
+[GNU Aspell](https://link.zhihu.com/?target=http%3A//aspell.net/)：它能够交互式地检测文本文档，能高亮显示拼写错误，还能在拼写错误的上方提供正确的拼写建议。Aspell 在进行拼写检查的时候，同样能够忽略许多语法标记；
 
 [Proselint](https://link.zhihu.com/?target=http%3A//proselint.com/)：它是一款全能的实时检查工具。它会找出行话、大话、不正确日期和时间格式、滥用的术语[等等](https://link.zhihu.com/?target=http%3A//proselint.com/checks/)。它也很容易运行并忽略文本中的标记；
 
@@ -1338,16 +1428,13 @@ http.server : python中的一个本地小型 http 服务器,可以用于局域�
 
  
 
-
-
 参考连接:
-	[干货| C++ 资源、框架大全，推荐收藏](https://zhuanlan.zhihu.com/p/30660979)  
-	[公众号嵌入式大杂烩资源仓库](https://github.com/zhengnianli/EmbedSummary)
+[干货| C++ 资源、框架大全，推荐收藏](https://zhuanlan.zhihu.com/p/30660979)  
 
-​	https://www.zhihu.com/question/59227720/answer/286665684
+https://www.zhihu.com/question/59227720/answer/286665684
 
-​	https://www.zhihu.com/question/59227720/answer/578875058
+https://www.zhihu.com/question/59227720/answer/578875058
 
-​	https://www.zhihu.com/question/59227720/answer/163933473
+https://www.zhihu.com/question/59227720/answer/163933473
 
-​	https://www.zhihu.com/question/59227720/answer/163966430
+https://www.zhihu.com/question/59227720/answer/163966430
