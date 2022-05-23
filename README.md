@@ -326,6 +326,8 @@
 
 [正点](http://www.openedv.com/forum.php)：正点原子论坛。
 
+[小熊猫C++ IDE](https://royqh1979.gitee.io/redpandacpp/)：跨平台、轻量易用的开源C/C++集成开发环境。
+
 [ST](https://www.stmcu.org.cn/module/forum/forum.php)：ST中文社区。
 
 [讯为开发社区](http://bbs.topeetboard.com/forum.php)：北京讯为ARM开发社区。
@@ -544,9 +546,7 @@
 
 关注微信公众号**嵌入式大杂烩**，查看更多资源。
 
-[![](https://zhengn-blog-imgs.oss-cn-shenzhen.aliyuncs.com/images/202205102338188.jpg)](https://imgchr.com/i/w2fqLn)
-
-
+![](https://zhengn-blog-imgs.oss-cn-shenzhen.aliyuncs.com/images/202205232326684.jpg)
 
 
 
