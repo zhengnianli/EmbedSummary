@@ -498,6 +498,8 @@
 
 ## 7、物联网、智能家居
 
+[HomeAssistant](https://github.com/home-assistant/core)：一款基于 Python 的智能家居开源系统。
+
 [ Domoticz ](https://github.com/domoticz/domoticz)：一个开源的智能家居系统 。
 
 [Kaa IoT Platform](https://www.kaaproject.org/)：功能丰富的开放和高效的物联网云平台。
